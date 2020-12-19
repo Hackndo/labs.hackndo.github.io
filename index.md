@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Hackndo Labs"
 ---
 
 <div style="height: 330px; width: 260px; margin: auto; margin-top: 100px;">
